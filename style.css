@@ -128,7 +128,7 @@ ul li a {
 /* pseudo-selector */
 ul li a:hover {
   background: var(--surface-color-hover);
-  border: 1.5px solid var(--text-color);
+  border: 1.5px solid rgba(224, 3, 3, 0.719);
   scale: 1.05;
 }
 
